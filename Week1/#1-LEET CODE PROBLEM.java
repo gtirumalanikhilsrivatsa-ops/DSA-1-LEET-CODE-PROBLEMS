@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Solution {
+class #1-LEET CODE PROBLEM {
     public int[] twoSum(int[] nums, int target) {
 
         boolean found = false;
